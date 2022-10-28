@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CACnB,MAGC,uBAAwB,CACxB,cAAe,CACf,kBAAmB","file":"main.38feac87.chunk.css","sourcesContent":[".App {\r\n  text-align: center;\r\n}\r\n\r\n.list {\r\n  background-color: violet;\r\n  margin: 0 250px;\r\n  border-radius: 10px;\r\n}\r\n"]}

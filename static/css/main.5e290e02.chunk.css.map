@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CACnB,MAGC,sBAAuB,CACxB,KAGC,qBAAsB","file":"main.5e290e02.chunk.css","sourcesContent":[".App {\r\n  text-align: center;\r\n}\r\n\r\n.done {\r\n  background-color: green;\r\n}\r\n\r\n.not {\r\n  background-color: plum;\r\n}\r\n"]}
